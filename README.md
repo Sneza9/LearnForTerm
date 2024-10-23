@@ -26,7 +26,7 @@ Admin login - korisničko ime: sneza password: sneza
 User login - korisničko ime: marija89 password: marija89
 
 # Dodatna dokumentacija 
-Dodatna dokumentacija se nalazi u folderu "Dokumentacija" 
+Dodatna dokumentacija se nalazi u folderu "Dokumentacija" https://github.com/Sneza9/LearnForTerm/tree/main/Dokumentacija 
 
 # Details
 Predmet: Softversko inženjertvo 
